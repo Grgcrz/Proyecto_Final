@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d9ba998-2156-47c8-8560-6be415813c58" name="Default Changelist" comment="" />
+    <list default="true" id="9d9ba998-2156-47c8-8560-6be415813c58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Programa/Programa.layout" beforeDir="false" afterPath="$PROJECT_DIR$/Programa/Programa.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programa/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Programa/main.c" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Programa/main.c">
           <provider selected="true" editor-type-id="text-editor" />
@@ -106,9 +109,13 @@
     <MESSAGE value="primer archivo del programa y del repositorio" />
     <MESSAGE value="cabeza de la factura listo" />
     <MESSAGE value="29\6\19" />
-    <option name="LAST_COMMIT_MESSAGE" value="29\6\19" />
+    <MESSAGE value="30\6\19 - ya se imprme en txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="30\6\19 - ya se imprme en txt" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Programa/factura.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Programa/main.c">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>

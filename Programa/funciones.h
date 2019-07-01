@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
+#include <string.h>
 
 void imprime_salir()
 {
@@ -24,7 +25,7 @@ void imprime_menu()
     printf("\t%s\t\n\t%s\t\n\t%s\n\t%s\n\t%s\n","1 - Clientes y datos de envio","2 - Productos y unidades","3 - Generar factura","4 - Archivo de facturas","5 - Ventas del mes");
     puts("\n\n\tIngrese el numero con la funcion deseada: ");
 }
-void imprime_titulo(char name[],char nomber[],char direccion[],char telefono[],int ID[],int n)
+void imprime_titulo(char name[],char nomber[],char direccion[],char telefono[],int ID[],int n,int fecha[],int factura[])
 {
     system("color f0");
     for(int i = 0; i < 20; i++)
@@ -46,12 +47,35 @@ void imprime_titulo(char name[],char nomber[],char direccion[],char telefono[],i
         printf("%c",196);
     }
     printf("%c\n%cCliente:%s",191,179,name);
-    printf("\tNo.Factura:%s","12345");
-    printf("\t Fecha:%s\t    %c","33434343",179);
-    //printf("%c",179);
+    //--------------------Seccion auto linea--------------------
+    for(int j = 0; j <(22 - strlen(name)); j++)
+    {printf("%c",' ');
+    }
+    //-----------------------------------------------------------
+    printf("No.Factura:%s",factura);
+    printf("  Fecha:%s",fecha);
+     //--------------------Seccion auto linea (ESPECIAL)--------------------
+     //----------------------------------------------------------------------
+    for(int j = 0; j <(26 - (strlen(fecha)+ strlen(name)+strlen(factura))+strlen(name)); j++)
+    {printf("%c",' ');
+    }
+    //-----------------------------------------------------------
+    //-----------------------------------------------------------
+    printf("%c",179);
     printf("\n%cDirecci%cn:%s",179,162,direccion);
-    printf("\t    %c\n%cTel:%s\tEmail:%s\tID/RNC:%s",179,179,telefono,"ejemploemail@ejemplo.com",ID);
-    printf("  %c\n%c",179,192);
+    //--------------------Seccion auto linea--------------------
+    for(int l = 0; l <(65 - strlen(direccion)); l++)
+    {printf("%c",' ');
+    }
+    //-----------------------------------------------------------
+    printf("%c",179);
+    printf("\n%cTel:%s\tEmail:%s\tID/RNC:%s",179,telefono,"ejemploemail@ejemplo.com",ID);
+      //--------------------Seccion auto linea--------------------
+    for(int m = 0; m <(13 - strlen(ID)); m++)
+    {printf("%c",' ');
+    }
+    //-----------------------------------------------------------
+    printf("%c\n%c",179,192);
     for(int k = 0; k < 75; k++)
     {
         printf("%c",196);
@@ -61,6 +85,7 @@ void imprime_titulo(char name[],char nomber[],char direccion[],char telefono[],i
 }
 void imprime_cabecera_del_cuerpo()
 {
+
     puts("\n");//barra de abajo
     printf("%c",218);//-|
     for(int k = 0; k < 75; k++)
@@ -118,4 +143,24 @@ void seccion_ventas_mes()
     system("color 0f");
     printf("\t\t\t\t\t\tVentas del mes\t\t\t\t\n\n",161);
 }
+void imprime_fondo()
+{
+     printf("\n");
+    for(int k = 0; k < 77; k++)
+    {
+        printf("%c",196);
+    }
+    printf("\n Cantidad total: %d Unidades","23");
+    //--------------------Seccion auto linea--------------------
+    for(int j = 0; j <(22 - 19 /*strlen(name)*/); j++)
+    {printf("%c",' ');
+    }
+    //-----------------------------------------------------------
+    printf("\n Total Peso :%d KLG","2334");
+    printf("\n Total RDS$:%.2f","2332.33");
+    printf("\n\n La factura fue generada correctamente!");
+
+
+}
+
 //system("f0") fondo blanco, letras negras. 9, 22, 57,67.

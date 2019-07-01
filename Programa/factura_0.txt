@@ -4,11 +4,17 @@
 
 			Factura comercial final	
 +---------------------------------------------------------------------------+
-|Cliente:PUCMM          	No.Factura:12345	 Fecha:33434343	    |
+|Cliente:taktuk              No.Factura:231218A  Fecha:23-12-18             |
 |Direccion:Autopista Duarte,km 7,Santiago de los Caballeros,Rep.Dom	    |
-|Tel:809-824-0210	Email:ejemploemail@ejemplo.com	ID/RNC:047998763-4  |
+|Tel:809-824-0210	Email:ejemploemail@ejemplo.com	ID/RNC:123456       |
 +---------------------------------------------------------------------------+
 
 +-------+------------+----------------------------------+--------+----------+
 |   ID	|  Cantidad  |		Producto		| Precio |   Peso   |
 +-------+------------+----------------------------------+--------+----------+
+-----------------------------------------------------------------------------
+Total:4211484   
+Total Peso :4211517 KLG 
+Total RDS$:0.00
+
+
