@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1561843195 source:c:\users\grego\pycharmprojects\proyecto_final\programa\main.c
+1561949503 source:c:\users\grego\pycharmprojects\proyecto_final\programa\main.c
 	"funciones.h"
 	"test.h"
 
-1561843121 c:\users\grego\pycharmprojects\proyecto_final\programa\funciones.h
+1561949527 c:\users\grego\pycharmprojects\proyecto_final\programa\funciones.h
 	<stdio.h>
 	<conio.h>
 	<stdlib.h>
 
-1561838808 c:\users\grego\pycharmprojects\proyecto_final\programa\test.h
+1561933841 c:\users\grego\pycharmprojects\proyecto_final\programa\test.h
 

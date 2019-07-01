@@ -1,0 +1,1 @@
+txt_imprime_cabeza(cliente.nom,cliente.app,cliente.dir,cliente.tel,cliente.ID,3)
