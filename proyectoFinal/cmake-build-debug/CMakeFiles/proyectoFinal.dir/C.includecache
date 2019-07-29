@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/grego/CLionProjects/proyectoFinal/header.h
+stdio.h
+-
+conio.h
+-
+stdlib.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+
+C:/Users/grego/CLionProjects/proyectoFinal/main.c
+header.h
+C:/Users/grego/CLionProjects/proyectoFinal/header.h
+
