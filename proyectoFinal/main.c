@@ -137,9 +137,7 @@ int main() {
                     if ((print = fopen(address, "w")) != NULL) {
                         file_imprime_titulo(print, data_clients, noClnt, facCntr);
                         file_imprime_cabecera_del_cuerpo(print);
-                        for (int xr = 0; xr < data_clients[noClnt].fact[facCntr].n_productos; xr++) {
                             file_imprime_productos(data_clients, noClnt, facCntr, print);
-                        }
                         file_imprime_fondo(print, data_clients, noClnt, facCntr);
                         puts("La factura se genero correctamente!!!");
                     } else {
