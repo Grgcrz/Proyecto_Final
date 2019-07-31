@@ -1,27 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d9ba998-2156-47c8-8560-6be415813c58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Programa/Programa.layout" beforeDir="false" afterPath="$PROJECT_DIR$/Programa/Programa.layout" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programa/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Programa/main.c" afterDir="false" />
-    </list>
+    <list default="true" id="9d9ba998-2156-47c8-8560-6be415813c58" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proyectoFinal/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="139" column="89" selection-start-line="139" selection-start-column="89" selection-end-line="139" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programa/main.c">
+        <entry file="file://$PROJECT_DIR$/proyectoFinal/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proyectoFinal/header.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-761">
+              <folding>
+                <element signature="e#970#1120#1" />
+                <element signature="e#1269#1832#0" />
+                <element signature="e#1833#2831#0" />
+                <element signature="e#2832#3344#0" />
+                <element signature="e#3345#3759#0" />
+                <element signature="e#3760#4417#0" />
+                <element signature="e#4418#4707#0" />
+                <element signature="e#4708#4994#0" />
+                <element signature="e#7443#10064#0" />
+                <element signature="e#10065#10841#0" />
+                <element signature="e#10842#11732#0" />
+                <element signature="e#11733#13939#0" />
+                <element signature="e#13940#16060#0" />
+                <element signature="e#16061#16828#0" />
+                <element signature="e#16829#17524#0" />
+                <element signature="e#17525#17646#0" />
+                <element signature="e#17647#17779#0" />
+                <element signature="e#17780#18273#0" />
+                <element signature="e#18274#18405#0" />
+                <element signature="e#18406#18540#0" />
+                <element signature="e#18541#18673#0" />
+                <element signature="e#18674#18898#0" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/proyectoFinal/main.c" />
+      </list>
+    </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -34,39 +90,45 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-14" />
-    <option name="y" value="401" />
-    <option name="width" value="1260" />
-    <option name="height" value="464" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="654" />
+    <option name="height" value="767" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="Proyecto_Final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Proyecto_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="Proyecto_Final" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\grego\CLionProjects\Proyecto_Final" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
-              <item name="Proyecto_Final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Proyecto_Final" type="462c0819:PsiDirectoryNode" />
-              <item name="Programa" type="462c0819:PsiDirectoryNode" />
+              <item name="Proyecto_Final" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\grego\CLionProjects\Proyecto_Final" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="proyectoFinal" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../minunit_punto1_tarea" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\grego\CLionProjects\Proyecto_Final" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,11 +145,35 @@
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d9ba998-2156-47c8-8560-6be415813c58" name="Default Changelist" comment="" />
+      <created>1564365228253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564365228253</updated>
+      <workItem from="1564365229600" duration="280000" />
+    </task>
+    <task id="LOCAL-00001" summary="correcciones">
+      <created>1564365482651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564365482651</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="280000" />
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2540453" />
       <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -100,23 +186,81 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer archivo del programa y del repositorio" />
     <MESSAGE value="cabeza de la factura listo" />
     <MESSAGE value="29\6\19" />
     <MESSAGE value="30\6\19 - ya se imprme en txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="30\6\19 - ya se imprme en txt" />
+    <MESSAGE value="correcciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="correcciones" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programa/factura.txt">
+    <entry file="file://$PROJECT_DIR$/Programa/factura.txt" />
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Programa/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programa/funciones.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proyectoFinal/header.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-761">
+          <folding>
+            <element signature="e#970#1120#1" />
+            <element signature="e#1269#1832#0" />
+            <element signature="e#1833#2831#0" />
+            <element signature="e#2832#3344#0" />
+            <element signature="e#3345#3759#0" />
+            <element signature="e#3760#4417#0" />
+            <element signature="e#4418#4707#0" />
+            <element signature="e#4708#4994#0" />
+            <element signature="e#7443#10064#0" />
+            <element signature="e#10065#10841#0" />
+            <element signature="e#10842#11732#0" />
+            <element signature="e#11733#13939#0" />
+            <element signature="e#13940#16060#0" />
+            <element signature="e#16061#16828#0" />
+            <element signature="e#16829#17524#0" />
+            <element signature="e#17525#17646#0" />
+            <element signature="e#17647#17779#0" />
+            <element signature="e#17780#18273#0" />
+            <element signature="e#18274#18405#0" />
+            <element signature="e#18406#18540#0" />
+            <element signature="e#18541#18673#0" />
+            <element signature="e#18674#18898#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proyectoFinal/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="139" column="89" selection-start-line="139" selection-start-column="89" selection-end-line="139" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proyectoFinal/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
