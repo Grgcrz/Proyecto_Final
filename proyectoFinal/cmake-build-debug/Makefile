@@ -149,6 +149,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles\proyectoFinal.dir\build.make CMakeFiles/proyectoFinal.dir/main.c.s
 .PHONY : main.c.s
 
+proyectofinal.obj: proyectofinal.c.obj
+
+.PHONY : proyectofinal.obj
+
+# target to build an object file
+proyectofinal.c.obj:
+	$(MAKE) -f CMakeFiles\proyectoFinal.dir\build.make CMakeFiles/proyectoFinal.dir/proyectofinal.c.obj
+.PHONY : proyectofinal.c.obj
+
+proyectofinal.i: proyectofinal.c.i
+
+.PHONY : proyectofinal.i
+
+# target to preprocess a source file
+proyectofinal.c.i:
+	$(MAKE) -f CMakeFiles\proyectoFinal.dir\build.make CMakeFiles/proyectoFinal.dir/proyectofinal.c.i
+.PHONY : proyectofinal.c.i
+
+proyectofinal.s: proyectofinal.c.s
+
+.PHONY : proyectofinal.s
+
+# target to generate assembly for a file
+proyectofinal.c.s:
+	$(MAKE) -f CMakeFiles\proyectoFinal.dir\build.make CMakeFiles/proyectoFinal.dir/proyectofinal.c.s
+.PHONY : proyectofinal.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,6 +188,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... proyectofinal.obj
+	@echo ... proyectofinal.i
+	@echo ... proyectofinal.s
 .PHONY : help
 
 

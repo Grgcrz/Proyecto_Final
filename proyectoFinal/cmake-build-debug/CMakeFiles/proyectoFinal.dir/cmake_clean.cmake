@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/proyectoFinal.dir/main.c.obj"
+  "CMakeFiles/proyectoFinal.dir/proyectofinal.c.obj"
   "proyectoFinal.pdb"
   "proyectoFinal.exe"
   "proyectoFinal.exe.manifest"

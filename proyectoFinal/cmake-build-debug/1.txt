@@ -1,0 +1,22 @@
+####################	PUCMM EXPORTACIONES CXA 	####################
+	 Edificios 'El matadero', Autopista Duarte Km 1 1/2 Santiago, RD.
+	 Tel: 809-201-8036	Email:ventasMATADERO@pucmm.edu.do 
+
+			Factura comercial final	
++---------------------------------------------------------------------------+
+ Cliente: 1                     No.Factura:1  Fecha:1\1\1                 
+|Direccion:1                                                                |
+ Tel:1	Email:1	ID/RNC:1
++---------------------------------------------------------------------------+
+
++-------+------------+----------------------------------+--------+----------+
+|   ID	|  Cantidad  |		Producto		| Precio |   Peso   |
++-------+------------+----------------------------------+--------+----------+
+ 1        1           1                                 1.00      1.00
+
+-----------------------------------------------------------------------------
+ Cantidad total: 1 Unidades   
+ Total Peso :1.00 KLG
+ Total RDS$:1.00
+
+ Gracias por su preferencia, vuelva pronto!!!!

@@ -4,3 +4,5 @@
 CMakeFiles/proyectoFinal.dir/main.c.obj: ../header.h
 CMakeFiles/proyectoFinal.dir/main.c.obj: ../main.c
 
+CMakeFiles/proyectoFinal.dir/proyectofinal.c.obj: ../proyectofinal.c
+

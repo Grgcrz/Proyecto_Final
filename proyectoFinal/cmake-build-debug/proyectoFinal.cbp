@@ -77,6 +77,9 @@
 		<Unit filename="C:/Users/grego/CLionProjects/proyectoFinal/main.c">
 			<Option target="proyectoFinal"/>
 		</Unit>
+		<Unit filename="C:/Users/grego/CLionProjects/proyectoFinal/proyectofinal.c">
+			<Option target="proyectoFinal"/>
+		</Unit>
 		<Unit filename="C:/Users/grego/CLionProjects/proyectoFinal/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
